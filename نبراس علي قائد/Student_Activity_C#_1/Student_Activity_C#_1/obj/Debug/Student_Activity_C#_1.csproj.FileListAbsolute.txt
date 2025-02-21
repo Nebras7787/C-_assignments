@@ -1,0 +1,10 @@
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\bin\Debug\Student_Activity_C#_1.exe.config
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\bin\Debug\Student_Activity_C#_1.exe
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\bin\Debug\Student_Activity_C#_1.pdb
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C#_1.csproj.AssemblyReference.cache
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C__1.Form1.resources
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C__1.Properties.Resources.resources
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C#_1.csproj.GenerateResource.cache
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C#_1.csproj.CoreCompileInputs.cache
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C#_1.exe
+C:\Users\Nebras\source\repos\Student_Activity_C#_1\Student_Activity_C#_1\obj\Debug\Student_Activity_C#_1.pdb
